@@ -1,0 +1,22 @@
+@import url(./reset.css);
+
+h1{
+    color: rgb(19, 19, 98);
+    text-align: center;
+    margin: 20px auto;
+}
+table{
+    font-size: 1.5rem;
+    border: solid .1rem;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+th{
+    border: solid .1rem;
+    padding: 5px;
+    background-color: rgb(154, 154, 154);
+}
+td{
+    border: solid .1rem;
+    padding: 5px;
+}
